@@ -1,0 +1,367 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100020113,
+        "name": "Wolbecker Straße",
+        "nr": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636356,
+          51.95921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100031297,
+        "name": "Promenade (nördlich Salzstraße)",
+        "nr": "5",
+		"detailed": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634015197473532,
+          51.960595599885565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100031300,
+        "name": "Hafenstraße",
+        "nr": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62974,
+          51.95426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100034978,
+        "name": "Gartenstraße",
+        "nr": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635686416805148,
+          51.97154102512242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100034980,
+        "name": "Hammer Straße",
+        "extra": "Display",
+        "nr": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62631,
+          51.95462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100034981,
+        "name": "Weseler Straße",
+        "nr": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6178703,
+          51.9505521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100034982,
+        "name": "Hüfferstraße",
+        "nr": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61094,
+          51.9617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100034983,
+        "name": "Warendorfer Straße",
+        "nr": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63768,
+          51.96185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100035541,
+        "name": "Neutor",
+        "nr": "1",
+        "extra": "Display"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615511,
+          51.966988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100053305,
+        "name": "Kanalpromenade, Abschnitt 5",
+        "nr": "10",
+		"detailed": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64893,
+          51.91717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037925,
+        "name": "Goldstraße",
+        "nr": "11",
+		"velorouten": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         7.636264,
+		 51.967438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037932,
+        "name": "Schmeddingstraße",
+        "nr": "12",
+		"velorouten": "4,5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.592110,
+			51.956734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300038855,
+        "name": "Bismarckallee",
+        "nr": "13",
+        "extra": "Display",
+		"velorouten": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.6179789,
+			51.9562088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037933,
+        "name": "Weißenburgstraße",
+        "nr": "14",
+		"velorouten": "8,9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.619567,
+			51.942891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037920,
+        "name": "Lütkenbecker Weg",
+        "nr": "15",
+		"velorouten": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.651947,
+			51.949545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037926,
+        "name": "Bohlweg",
+        "nr": "16",
+		"velorouten": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.638286,
+			51.966436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037544,
+        "name": "Kanalpromenade, Abschnitt 1",
+        "nr": "17",
+		"detailed": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.66207,
+			51.9798853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037936,
+        "name": "Kanalpromenade, Abschnitt 6",
+        "nr": "18",
+		"detailed": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.650465,
+			51.887739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037931,
+        "name": "Gasselstiege",
+        "nr": "19",
+		"detailed": "yes",
+		"velorouten": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.606586,
+			51.979387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300039328,
+        "name": "Coesfelder Kreuz",
+        "nr": "20",
+		"extra": "Display"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.5995429,
+			51.9649268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037405,
+        "name": "Promenade (in Höhe Hals)",
+        "nr": "21",
+		"detailed": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.6239339,
+			51.9568468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300039331,
+        "name": "Grevener Straße",
+        "nr": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.612012,
+			51.979612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300037928,
+        "name": "Kinderhauser Straße",
+        "nr": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			7.613773,
+			51.978652
+        ]
+      }
+    }
+  ]
+}
